@@ -7,9 +7,9 @@ In this project , we developed  machine learning  using  random forest classifie
 
 
 ## **Data source**
-UCI - Machine Learning Repository
+UCI - Machine Learning Repository;
 Center for Machine Learning and Intelligent Systems
-The UCI Machine Learning Repository is a collection of databases, domain theories, and data generators that are used by the machine learning community for the empirical analysis of machine learning algorithms.
+[The UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.ph) is a collection of databases, domain theories, and data generators that are used by the machine learning community for the empirical analysis of machine learning algorithms.
 the original source form Blood Transfusion Service Center Data Set
 
 ## **Installation**
@@ -70,15 +70,15 @@ ROC AUC = 0.6150
 ## **Issues**
 None
 
-## ***Contributing***
+## **Contributing**
 For major changes, please open an issue. First discuss what you would like to change. please make sure to update tests as appropriate
 
-# ***Licence***
+# **Licence**
 ```
 Copyright (C) 2020 David Gabriel
 ```
 
-# ***Further reading & References***
+# **Further reading & References**
 -Yeh, I-Cheng, Yang, King-Jang, and Ting, Tao-Ming, "Knowledge discovery on RFM model using Bernoulli sequence, "Expert Systems with Applications, 2008\
 - [The UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.ph)
 
