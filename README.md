@@ -9,7 +9,7 @@ In this project , we developed  machine learning  using  random forest classifie
 ## **Data source**
 UCI - Machine Learning Repository;
 Center for Machine Learning and Intelligent Systems
-[The UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.ph) is a collection of databases, domain theories, and data generators that are used by the machine learning community for the empirical analysis of machine learning algorithms.
+[The UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.ph) is a collection of databases, domain theories, and data generators that are used by the machine learning community for the empirical analysis of machine learning algorithms.\
 [Blood Transfusion Service Center Data Set](https://archive.ics.uci.edu/ml/datasets/Blood+Transfusion+Service+Center)
 
 **Data**:
