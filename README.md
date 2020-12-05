@@ -1,7 +1,7 @@
 # Project Description
 
 
-Heart disease is the major causes of the death worldwide, therefore early detection is necessary to prevent it.
+The Heart disease is the major causes of the death worldwide, therefore early detection is necessary to prevent it.\
 In this project , we developed  machine learning  using  random forest classifier to classify and predict  heart disease. We used dataset from the UCI website [UCI](https://archive.ics.uci.edu/ml/index.ph).
 
 
