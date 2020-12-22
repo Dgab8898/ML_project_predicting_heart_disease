@@ -48,7 +48,8 @@ sns.set(style = 'ticks')
 
 
 ## **Data preparation**
-Deal with the data as required by the modelling technique\
+The first step we load our dataset.\
+then we applied the following techniques to get our data ready for our model.\
 - Outliers (remove or adjust if possible or necessary)
 - Null (remove or interpolate if possible or necessary)
 - Missing Values (remove or interpolate if possible or necessary)
@@ -56,16 +57,17 @@ Deal with the data as required by the modelling technique\
 - Normalisation (if possible or necessary)
  -Feature Engeneer (if useful or necessary)
 
-## **Modelling**
-## **Split the Data**
-We split the data into training and test 
+## **Instantiate the model**
 
-## **Define model**
-We defined the model, and we fit the model, and consider its parameter and hyperparameter of each model to check the efficiency of the model against the training and test dataset.
+This invloving  spliting  the data into training and test 
 
-## **Verify and Evaluate the Training Mode**
+## **Train(fit) the model**
+Once we instaniate our model, we train and  fit our model, we consider its parameter and hyperparameter of each model to check the efficiency of the model against the training and test dataset.
+We accommplished this by calling ```model.fit``` and passing the XY
+
+## **Evaluate the model**
 - We used the training data to make predictions, check for overfitting, and to determine the appropriate matrix for modelling.\
-- This is classification problem, and the typical metrics are Confusion matrix, accuracy, precision/recall, ROC
+- We evaluate our model by printing the accuracy on train and test, and the typical metrics for evaluation since we are dealing with classification problem are\ Confusion matrix, accuracy, precision/recall, ROC
 
 ## The baseline results (minimum) are:
 Accuracy = 0.7419
