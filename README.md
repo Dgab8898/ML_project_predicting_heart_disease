@@ -49,7 +49,7 @@ sns.set(style = 'ticks')
 
 ## **Data preparation**
 The first step we load our dataset.\
-then we applied the following techniques to get our data ready for our model.\
+then we applied the following techniques to get our data ready for our model.
 - Outliers (remove or adjust if possible or necessary)
 - Null (remove or interpolate if possible or necessary)
 - Missing Values (remove or interpolate if possible or necessary)
@@ -62,12 +62,12 @@ then we applied the following techniques to get our data ready for our model.\
 This invloving  spliting  the data into training and test 
 
 ## **Train(fit) the model**
-Once we instaniate our model, we train and  fit our model, we consider its parameter and hyperparameter of each model to check the efficiency of the model against the training and test dataset.
+Once we instaniate our model, we train and  fit our model, we consider its parameter and hyperparameter of each model to check the efficiency of the model\ against the training and test dataset.
 We accommplished this by calling ```model.fit``` and passing the XY
 
 ## **Evaluate the model**
-- We used the training data to make predictions, check for overfitting, and to determine the appropriate matrix for modelling.\
-- We evaluate our model on (y,X)test, and printing its accuracy.\
+- We used the training data to make predictions, check for overfitting, and to determine the appropriate matrix for modelling.
+- We evaluate our model on (y,X)test, and printing its accuracy.
 - Since we are dealing with classification problem the  typical metrics for evaluating the model are Confusion matrix, accuracy, precision/recall, ROC
 
 ## The baseline results (minimum) are:
