@@ -67,7 +67,7 @@ We accommplished this by calling ```model.fit``` and passing the XY
 
 ## **Evaluate the model**
 - We used the training data to make predictions, check for overfitting, and to determine the appropriate matrix for modelling.
-- We evaluate our model on (y,X)test, and printing its accuracy.
+- We evaluate our model on the test and test data, then plot what returned by fit model , and printing its accuracy.
 - Since we are dealing with classification problem the  typical metrics for evaluating the model are Confusion matrix, accuracy, precision/recall, ROC
 
 ## The baseline results (minimum) are:
